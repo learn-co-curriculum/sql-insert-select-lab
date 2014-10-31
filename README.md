@@ -24,12 +24,12 @@ Write your INSERT statements in the `lib/insert.sql` file.
 
 This is the data I'm inserting into my cats table. Use this data in your INSERT statements. It will be the data you should will be querying in the SELECT specs as well.
 
-|id |name|age|breed|gender|temperment|declawed|
-|---|----|---|-----|------|----------|--------|
-|1  |Maru| 6 |Scottish Fold|M|playful|0|
-|2  |Nala| 3 |Siamese|F|diva|0|
-|3  |Grumpy Cat|2|Ragdoll|F|friendly|1|
-|4  |Lil Bub|3|Dwarf|F|friendly|1|
+|id |name|age|gender|breed|temperment|declawed|
+|---|----|---|------|-----|----------|--------|
+|1  |Maru| 6 |M|Scottish Fold|playful|0|
+|2  |Nala| 3 |F|Siamese|diva|0|
+|3  |Grumpy Cat|2|F|Ragdoll|friendly|1|
+|4  |Lil Bub|3|F|Dwarf|friendly|1|
 
 ## Selecting
 
