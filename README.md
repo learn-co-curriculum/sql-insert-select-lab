@@ -39,3 +39,5 @@ Get the tests in `spec/select_spec.rb` to pass. Note that for this section, the 
     expect(@db.execute(sql)).to eq([["Grumpy Cat"], ["Lil Bub"]])
   end
 ```
+
+<a href='https://learn.co/lessons/sql-insert-select-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
