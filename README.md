@@ -40,4 +40,4 @@ Get the tests in `spec/select_spec.rb` to pass. Note that for this section, the 
   end
 ```
 
-<a href='https://learn.co/lessons/sql-insert-select-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-insert-select-lab' title='Sql Insert and Select Lab'>Sql Insert and Select Lab</a> on Learn.co and start learning to code for free.</p>
